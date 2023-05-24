@@ -9,6 +9,7 @@ metadata:
   #   backstage.io/techdocs-ref: dir:.
   annotations:
     'backstage.io/kubernetes-id': backstage
+    'backstage.io/kubernetes-namespace': brighthire-staging-andrea
 spec:
   type: service
   owner: platform
